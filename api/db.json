@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "kgkfy",
+      "name": "jay",
+      "age": 22,
+      "email": "zambaredhiraj22@gmail.com"
+    },
+    {
+      "id": "e959",
+      "name": "Sakshi",
+      "email": "sakshizambre@gmail.com",
+      "age": "20"
+    },
+    {
+      "name": "Dhanaji",
+      "age": "52",
+      "email": "dhanajizambre26@gmail.com",
+      "id": "62d1"
+    },
+    {
+      "id": "bf83",
+      "name": "Sapna",
+      "email": "sapna@gmail.com",
+      "age": "21"
+    },
+    {
+      "id": "0830",
+      "name": "mummy",
+      "email": "mummy@pappagmail.com",
+      "age": "49"
+    },
+    {
+      "id": "4a6f",
+      "name": "Kusum",
+      "email": "kusumzambre@gmail.com",
+      "age": "75"
+    },
+    {
+      "name": "Bhagawan",
+      "age": "85",
+      "email": "bhagawanzambre@gmail.com",
+      "id": "f1d4"
+    },
+    {
+      "id": "6dd5",
+      "name": "Sanika ",
+      "email": "sanika zambre@gmail.com",
+      "age": "10"
+    },
+    {
+      "name": "Niki zambre",
+      "age": "25",
+      "email": "nikinikam@gmail.com",
+      "id": "6b1d"
+    }
+  ]
+}
