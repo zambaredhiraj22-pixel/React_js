@@ -1,4 +1,4 @@
-/* #root {
+#root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,12 +39,12 @@
 
 .read-the-docs {
   color: #888;
-} */
+}
 
-/* 
+
 
 ////////////////////////////////////////////////////Task///////////////////////////////////////////////
-/* .user-list{
+ .user-list{
   display:flex;
   justify-content: space-around;
   border:1px solid #aaa;
@@ -52,14 +52,14 @@
   padding: 10px;
   list-style:none;
   margin: 1px;
-} */
-/* .user-list-head{
+} 
+ .user-list-head{
   font-size: 20px;
   font-weight: 800;
 
-} */
+} 
 
-/* .user-list {
+.user-list {
     display: grid;
      justify-content: space-around; 
     border: 1px solid #aaa;
@@ -69,7 +69,7 @@
     margin: 1px;
     align-items: center;
     grid-template-columns: 1.2fr 0.8fr 3fr 1fr;
-}  */
+}  
  button {
     border-radius: 15px;
     border: 2px solid #66174600;
@@ -82,7 +82,7 @@
     transition: border-color 0.25s;
     width: 100px; 
  }
-/* }
+
 .nav-list {
     display: flex;
     justify-content: space-around;
@@ -96,7 +96,7 @@
 }
 .line{
   margin-left: 20px;
-} */ */
+} 
 
 .error{
   border: 1px solid red;
@@ -106,4 +106,4 @@
 }
 .red-color{
   color: red;
-}
+} 
